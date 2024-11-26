@@ -1,0 +1,14 @@
+C:\Temp\Projetos C#\ExerciseLINQLambda\ExerciseLINQLambda\obj\Debug\net8.0\ExerciseLINQLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos C#\ExerciseLINQLambda\ExerciseLINQLambda\obj\Debug\net8.0\ExerciseLINQLambda.AssemblyInfoInputs.cache
+C:\Temp\Projetos C#\ExerciseLINQLambda\ExerciseLINQLambda\obj\Debug\net8.0\ExerciseLINQLambda.AssemblyInfo.cs
+C:\Temp\Projetos C#\ExerciseLINQLambda\ExerciseLINQLambda\obj\Debug\net8.0\ExerciseLINQLambda.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos C#\ExerciseLINQLambda\ExerciseLINQLambda\bin\Debug\net8.0\ExerciseLINQLambda.exe
+C:\Temp\Projetos C#\ExerciseLINQLambda\ExerciseLINQLambda\bin\Debug\net8.0\ExerciseLINQLambda.deps.json
+C:\Temp\Projetos C#\ExerciseLINQLambda\ExerciseLINQLambda\bin\Debug\net8.0\ExerciseLINQLambda.runtimeconfig.json
+C:\Temp\Projetos C#\ExerciseLINQLambda\ExerciseLINQLambda\bin\Debug\net8.0\ExerciseLINQLambda.dll
+C:\Temp\Projetos C#\ExerciseLINQLambda\ExerciseLINQLambda\bin\Debug\net8.0\ExerciseLINQLambda.pdb
+C:\Temp\Projetos C#\ExerciseLINQLambda\ExerciseLINQLambda\obj\Debug\net8.0\ExerciseLINQLambda.dll
+C:\Temp\Projetos C#\ExerciseLINQLambda\ExerciseLINQLambda\obj\Debug\net8.0\refint\ExerciseLINQLambda.dll
+C:\Temp\Projetos C#\ExerciseLINQLambda\ExerciseLINQLambda\obj\Debug\net8.0\ExerciseLINQLambda.pdb
+C:\Temp\Projetos C#\ExerciseLINQLambda\ExerciseLINQLambda\obj\Debug\net8.0\ExerciseLINQLambda.genruntimeconfig.cache
+C:\Temp\Projetos C#\ExerciseLINQLambda\ExerciseLINQLambda\obj\Debug\net8.0\ref\ExerciseLINQLambda.dll
